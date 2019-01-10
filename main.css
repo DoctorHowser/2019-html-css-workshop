@@ -1,0 +1,45 @@
+body {
+  color : blue;
+  border: 5px solid red;
+  font-family : sans-serif;
+}
+
+p {
+  /* THIS IS A COMMENT */
+  border: 2px dotted black;
+  padding: 5px;
+  margin: 4px;
+}
+
+div {
+  border: 1px solid green;
+  width : 200px;
+/*   float : left
+   */
+  display : inline-block;
+}
+
+
+/* . is for class! # is for id! */ 
+.first {
+  background-color : #333;
+}
+
+.grocery {
+  background-color: green
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
